@@ -1,2 +1,9 @@
 # data-analytics-portfolio
-Portfolio for data science and analytics program
+This repository contains projects and visualizations created from the Data Science & Analytics program with [ADD YOUR UNIVERSITY NAME HERE].
+
+## SQL
+
+## Statistics
+
+## Visual Communications
+
